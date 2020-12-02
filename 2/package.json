@@ -1,11 +1,11 @@
 {
-  "name": "1",
+  "name": "2",
   "version": "1.0.0",
   "description": "",
   "main": "lib.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Enric Masdeu",
+  "author": "",
   "license": "ISC"
 }
